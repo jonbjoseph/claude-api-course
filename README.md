@@ -1,0 +1,1 @@
+This a project contains the code snippets from the 'Building with the Claude API' course on Anthropic Academy.
