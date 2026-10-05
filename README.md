@@ -1,1 +1,1 @@
-This project contains the code Jupyter Notebook cells with code examples taken from the 'Building with the Claude API' course on Anthropic Academy.
+This project contains Jupyter Notebook cells with code examples taken from the 'Building with the Claude API' course on Anthropic Academy.
