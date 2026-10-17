@@ -11,4 +11,6 @@ wheels/
 
 .env
 .vscode
+scratch.txt
+re_test_on_json_markdown.py
 
