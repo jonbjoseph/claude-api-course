@@ -13,5 +13,6 @@ wheels/
 .vscode
 scratch.txt
 re_test_on_json_markdown.py
-test_response_content_for_thinking
+test_response_content_for_thinking.py
+Building with Claude API - Lesson13 - json markdown fence response.txt
 
