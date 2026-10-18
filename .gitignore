@@ -13,4 +13,5 @@ wheels/
 .vscode
 scratch.txt
 re_test_on_json_markdown.py
+test_response_content_for_thinking
 
